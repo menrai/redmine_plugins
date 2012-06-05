@@ -1,0 +1,235 @@
+ja:
+  contacts_title: コンタクト
+
+  label_all_people: すべての人
+  label_all_companies: すべての会社
+  label_all_people_and_companies: すべてのコンタクト
+  label_recently_viewed: 最近のビュー
+  label_gravatar_enabled: Gravatar を使用する  
+  label_thumbnails_enabled: ノートでサムネイルを表示する
+  label_max_thumbnail_file_size: 最大サムネイルサイズ
+  label_contacts_view_all: すべてのコンタクトを閲覧
+  label_contact_files: ファイル
+  label_task_plural: タスク
+  label_contact_background_info: 背景
+  label_person: 人
+  label_company: 会社   
+  label_contact_plural: コンタクト   
+  label_contact_information: コンタクト情報
+  label_contact_edit_information: コンタクト情報を編集
+  label_edit_tags: タグを編集
+  label_contact_view: 閲覧
+  label_contact_list: リスト
+  label_contact_new: 新しいコンタクト
+  label_at_company: at
+  label_last_notes: 最近のノート
+  label_tags_plural: タグ     
+  label_multi_tags_plural: 複数タグの選択
+  label_single_tag_mode: タグ
+  label_multiple_tags_mode: 複数タグ
+  label_contact_tag: タグ
+  label_time_ago: 前
+  label_add_note_plural: ノートを追加 
+  label_note_plural: ノート
+  label_company_employees: 従業員
+  label_add_tags_rule: カンマで分割
+  label_contact_search: 名前で検索
+  label_note_for: ノートする
+  label_show_on_map: 地図上で見る   
+  label_add_another_phone: 電話番号の追加   
+  label_contact_note_plural: すべてのノート
+  label_remove: 削除        
+  label_related_contacts: 関連するコンタクト    
+  label_assigned_to: 担当者
+  label_issue_added: 課題の追加
+  label_add_emails_rule: カンマで分割
+  label_add_phones_rule: カンマで分割  
+  label_add_employee: 新しい従業員   
+  label_merge_duplicate_plural: マージ
+  label_duplicate_plural: 重複の可能性
+  label_duplicate_for_plural: 重複の可能性
+  label_add_tag: 新規追加...
+   
+  label_note_show_extras: 拡張 (type, date, files)
+  label_note_hide_extras: 拡張を隠す       
+  label_note_added: ノートの追加に成功しました。
+  label_note_read_more: (read more)
+
+  label_deal_plural: 取引
+  label_contractor_plural: コンタクト
+  label_deal: 取引     
+  label_deal_new: 新しい取引
+  label_deal_edit_information: 取引情報の編集   
+  label_deal_change_status: ステータスの変更
+  label_statistics: 統計情報
+  
+  label_deal_status_new: 新規
+  label_deal_status_first_contact: 最初のコンタクト
+  label_deal_status_negotiations: 交渉中
+  label_deal_status_pending: ペンディング
+  label_deal_status_won: 受注
+  label_deal_status_lost: 失注    
+  
+  label_created_on: 作成
+
+  field_note_date: ノートの日付
+  
+  field_deal_name: 名称
+  field_deal_background: 背景
+  field_deal_contact: コンタクト  
+  field_deal_price: 合計  
+  field_price: 合計  
+  
+  field_contact_avatar: アバター
+  field_contact_is_company: 会社
+  field_contact_name: コンタクト名称
+  field_contact_last_name: 苗字
+  field_contact_first_name: 名前
+  field_contact_middle_name: ミドルネーム
+  field_contact_job_title: 役職
+  field_contact_company: 会社
+  field_contact_address: 住所
+  field_contact_phone: 電話
+  field_contact_email: Email
+  field_contact_website: Website
+  field_contact_skype: Skype
+  field_contact_status: ステータス   
+  field_contact_background: 背景   
+  field_contact_tag_names: タグ  
+  field_first_name: 名前
+  field_last_name: 苗字
+  field_company: 会社 
+  field_birthday: 誕生日      
+  field_contact_department: 部署 
+  
+  
+  field_company_field: 産業 
+  
+  field_color: 色
+  
+  button_add_note: ノートの追加  
+  notice_successful_save: 保存に成功しました。 
+  notice_successful_add: 作成に成功しました。
+  notice_unsuccessful_save: 保存に失敗しました。
+  notice_successful_merged: 正常にマージされました。     
+  
+  notice_merged_warning: この人に接続されているすべてのノート、プロジェクト、タグ、タスクは以下に移動されます。コンタクトはその後削除されます。
+  
+  project_module_contacts_module: コンタクト
+  
+  permission_view_contacts: コンタクトの閲覧
+  permission_edit_contacts: コンタクトの編集
+  permission_delete_contacts: コンタクトの削除
+  permission_view_deals: 取引の閲覧
+  permission_edit_deals: 取引の編集
+  permission_delete_deals: 取引の削除   
+  permission_add_notes: ノートの追加       
+  permission_delete_notes: ノートの削除      
+  permission_delete_own_notes: 自分のノートの削除      
+  
+  # 2.0.0   
+  label_deal_category: 取引カテゴリ   
+  label_deal_category_plural: 取引カテゴリ   
+  label_deal_category_new: 新しいカテゴリ
+  text_deal_category_destroy_assignments: カテゴリの割り当てを解除
+  text_deal_category_destroy_question: "いくつかの取引 (%{count})はこのカテゴリに割り当てられています。 どうしますか?"
+  text_deal_category_reassign_to: このカテゴリへ再度割りあてる。
+  text_deals_destroy_confirmation: '選択された取引を削除してもよろしいですか。?'  
+  label_deal_status_plural: 取引ステータス
+  label_deal_status: 取引ステータス
+  field_deal_status_is_closed: クローズ 
+  label_deal_status_new: 新規     
+  permission_manage_contacts: 列挙型 
+  label_sale_funel: 販売目標
+  label_period: 期間
+  label_count: カウント 
+  
+  #2.0.1
+  label_user_format: コンタクト名のフォーマット 
+  label_my_contact_plural: コンタクトを自分に割り当てる
+  label_my_deal_plural: オープンしている取引を自分に割り当てる。
+  label_contact_view_all: すべてのコンタクトを閲覧
+  label_deal_view_all: すべての取引を閲覧
+  
+  #2.0.2
+  label_bulk_edit_selected_contacts: すべての選択されたコンタクトを編集
+  label_bulk_edit_selected_deals: すべての選択された取引を編集
+  label_bulk_send_mail_selected_contacts: 選択されたコンタクトへメール
+  field_add_tags: タグを追加
+  field_delete_tags: タグを削除
+  label_send_mail: メールを送信
+  error_empty_email: E-Mailはブランクにできません。
+  permission_send_contacts_mail: メールを送信
+  field_mail_from: From アドレス
+  text_email_macros: 利用可能なマクロ %{macro}
+  field_message: マージ
+
+  #2.0.3
+  label_add_contact: プロジェクトへ新しいコンタクトを追加
+  label_contact: コンタクト
+  field_age: 年齢
+  label_vcf_import: vCardからインポート
+  label_mail_from: From アドレス
+  permission_import_contacts: コンタクトをインポートする   
+  
+  #2.1.0
+  field_company_name: 会社名
+  label_recently_added_contacts: 最近追加したコンタクト
+  label_created_by_me: 自分で作成したコンタクト
+  my_contacts: 私のコンタクト
+  my_deals: 私の取引
+
+  #2.2.0
+  label_note_type_email: Email
+  label_note_type_call: 電話
+  label_note_type_meeting: 会議
+  field_deal_currency: 通貨
+  label_my_contacts_stats: 今月のコンタクト統計
+  label_contacts_created: 作成されたコンタクト
+  label_deals_created: 取引は作成された
+  my_contacts_avatars: 私のコンタクトの写真
+  my_contacts_stats: コンタクト統計
+  label_add_into: 追加上違法
+  label_delete_from: 削除する
+  label_show_deaks_tab: 取引タブの表示
+  label_show_on_projects_show: プロジェクトのコンタクトサマリを表示
+  
+  #2.2.1
+  label_contacts_show_in_list: リストを表示
+  
+  #2.3.0
+  label_module_plural: モジュール
+  label_contacts_default_currency: デフォルト取引通貨
+  label_contacts_list_partial_style: コンタクトリストのスタイル
+  label_contacts_list_excerpt: Excerptリスト
+  label_contacts_list_cards: カード
+  label_contacts_list_list: テーブル
+  field_contacts: コンタクト
+  field_companies: 会社
+  label_contacts_added_time_by: 追加される 
+  label_contact_note_authoring_time: ノートの時間を表示
+  label_contact_issues_filters: 課題フィルター
+  label_contacts_csv_import: CSVからコンタクトをインポート
+  label_contacts_upload_encoding: Fileのエンコーディング
+  label_contacts_csv_file: CSVファイル
+  label_contacts_csv_separator: セパレーター
+  field_middle_name: ミドルネーム
+  field_job_title: 役職
+  field_company: 会社
+  field_address: 住所
+  field_phone: 電話
+  field_email: Email
+  field_tags: タグ  
+  field_last_note: 最終ノート
+  field_is_company: 会社
+  field_contact_full_name: Full name
+  button_contacts_edit_query: クエリの編集
+  button_contacts_delete_query: クエリの削除
+  permission_manage_public_contacts_queries: 公開クエリーの管理
+  permission_add_deals: 取引の追加
+  permission_add_contacts: コンタクトの追加
+  permission_save_contacts_queries: クエリの追加
+
+  #2.3.3
+  label_contact_show_is_app_menu: アプリメニューでタブの表示
+

@@ -1,0 +1,50 @@
+en:
+  budget_title: 予算管理
+  field_cost_per_hour: 一時間当たりのコスト
+  field_total_hours: 総時間
+  field_overhead: 間接費
+  label_overhead: "間接費: "
+  field_materials: 外注費・原材料費
+  label_materials: "外注費・原材料費: "
+  field_profit: 利益
+  field_budget: 総予算
+  label_budget: "総予算: "
+  field_fixed_cost: 固定費
+  field_project_manager_signoff: プロジェクトマネージャー承認
+  field_client_signoff: クライアント承認
+  field_deliverable: 成果物
+  field_deliverable_subject: 成果物
+  field_due: 期日
+  label_member_rate: 単金 (円)
+  label_currency: 円
+  message_updated_issues: Updated %d issues
+  message_budget_settings: 規定値として利用される費用またはそれぞれの割合を入力してください。 割合を使用する時は、<strong>%%</strong> の文字列を入力してください。
+  label_non_billable_overhead: 間接費
+  label_materials: 外注費・原材料費
+  label_profit: 利益
+  label_new_deliverable: 新しい成果物
+  label_fixed_cost: 固定費
+  caption_due: 納期
+  caption_progress: 進捗
+  caption_subject: 題名
+  caption_score: スコア
+  caption_budget: 予算
+  caption_labor_budget: 人件費予算
+  caption_spent: 消費人件費予算
+  label_update_deliverable: 成果物の更新
+  label_labor_budget: "人件費予算: "
+  label_labor_budget_spent: "消費済人件費予算 : "
+  label_labor_budget_remaining: "残り人件費予算: "
+  label_progress: "進捗率: "
+  label_budget_score: "予算スコア: "
+  label_overruns: "予算超過額: "
+  label_missing_on: 割り当てが不足しています。
+  label_next_due_date: "次の納期: "
+  label_completion: "完了: "
+  label_potential_profit: "潜在的利益: "
+  label_bulk_assign: 一括割り当て
+  label_labor: "労間費: "
+  label_fixed_amount: "固定値: "
+  label_hours_estimated: "予測時間: "
+  label_hours_used: "消費時間: "
+  label_toggle_all: "すべての成果物の行を展開する"

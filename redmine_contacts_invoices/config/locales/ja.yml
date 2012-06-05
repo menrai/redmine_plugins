@@ -1,0 +1,100 @@
+# English strings go here for Rails i18n
+ja:
+  general_csv_encoding: CP932
+  general_pdf_encoding: CP932
+  project_module_contacts_invoices: Invoices
+  
+  label_invoice_plural: 請求管理
+  label_invoice: 請求書
+  label_invoice_new: 新しい請求
+  label_invoice_edit: 請求の編集
+  label_invoice_status: 状態
+  label_invoice_status_draft: 未確定
+  label_invoice_status_sent: 送付済み
+  label_invoice_status_paid: 支払い済み
+  label_invoice_lines: 明細
+  label_invoice_percent: %
+  label_invoice_amount: 金額
+  label_invoice_address: 住所
+  label_invoice_bill_to: 支払先
+  label_invoice_company_representative: 代表者
+  label_invoice_company_name: 会社名
+  label_invoice_company_info: 会社情報
+  label_invoice_bill_info: 支払情報
+  label_invoice_units: 単位
+  label_invoice_total: 合計
+  label_invoice_tax: 税金
+  label_invoice_sub_amount: 小計
+  label_invoice_invoiced: 請求済み
+  label_invoice_add_line: 明細の追加
+  label_invoice_overdue: 未払い
+  label_invoice_last_number: '最後の請求番号 #%{number}'
+  label_invoice_template: テンプレート
+  label_invoice_number_format: 請求番号フォーマット
+  label_invoice_default_tax: 規定税率
+  label_invoice_line_grouping: グルーピング
+  label_invoice_line_grouping_by_activity: アクティビティーごと
+  label_invoice_line_grouping_by_issue: 問題ごと
+  label_invoice_line_grouping_by_user: ユーザごと
+  label_invoice_line_grouping_single_line: 単一項目
+  
+  permission_edit_own_invoices: 自分の請求を編集する
+  permission_edit_invoices: 請求を編集する
+  permission_delete_invoices: 請求を削除する
+  permission_view_invoices: 請求を閲覧する
+
+  button_send_mail: 送信
+  button_print: 印刷
+  button_invoice: 請求
+
+  field_invoice_number: 請求番号
+  field_invoice_date: 請求日
+  field_invoice_contact: 請求先
+  field_invoice_due_date: 支払い期限
+  field_invoice_amount: 金額
+  field_invoice_discount: 値引き
+  field_invoice_assigned_to: 担当者
+  field_invoice_status: ステータス
+  field_invoice_currency: 通貨
+  field_invoice_language: 言語 
+  
+  field_invoice_line_position: '#'
+  field_invoice_line_description: 項目
+  field_invoice_line_price: 単価
+  field_invoice_line_quantity: 数量
+  field_invoice_line_tax: 税金
+  field_invoice_line_tax_amount: 税額
+  field_invoice_line_total: 合計
+  field_invoice_line_units: 単位
+  
+  #0.0.3
+  label_invoice_company_logo_url: 会社ロゴ(URL)
+  
+  #1.0.1
+  label_invoice_line_grouping_all: All
+  label_invoice_default_currency: 規定の通貨
+  label_invoice_total_including_tax: 合計(税込)
+  label_invoice_excerpt_invoice_list: 抜粋請求書
+  label_invoice_created: 作成済み請求書
+  label_invoice_disable_taxes: 税金を無効にする
+  label_invoice_days_late: %{days} 日遅延
+  label_invoice_contact_extra_field: 請求書用コンタクト拡張項目
+  lable_invoice_contact_extra_field_tip: 請求書に表示される (e.g. Client VAT or TAX ID)
+  label_invoice_decimal_separator: 水平線
+  label_invoice_thousands_delimiter: 区切り文字（千の位）
+  label_invoices_general: 全般
+  label_invoices_company: 会社
+  label_invoice_total_with_tax: 合計, 税込
+  
+  #1.0.2
+  label_invoices_show_in_pdf: PDFで表示
+  label_invoice_discount_including_tax: 値引き（税込）
+  
+  #1.0.3
+  label_invoice_use_rate_plugin: rate pluginを試用する
+  label_invoice_line_grouping_by_time_entry: タイムエントリー
+  label_generate_invoice: 請求書を作成する
+
+  #1.0.4
+  field_invoice_subject: 表題
+  
